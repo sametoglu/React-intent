@@ -1,0 +1,1 @@
+bu uygulamada intent ile uygulamaya cıkıs yapma,e-mail gonderme,paylasma ve giris sayfasından olusur.
